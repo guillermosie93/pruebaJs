@@ -1,0 +1,116 @@
+.body--contain{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-flow: column nowrap;
+    align-content: space-around;
+    justify-content: space-around;
+}
+#colores{
+    display: flex;
+    flex-flow: row wrap;
+    align-content: space-around;
+    justify-content: flex-start; 
+}
+
+
+#div--btn-1{
+    background-color: red;
+}
+#div--btn-2{
+    background-color: blue;
+}
+#div--btn-3{
+    background-color: orange;
+}
+#div--btn-4{
+    background-color: yellow;
+}
+#div--btn-5{
+    background-color: green;
+}
+#div--btn-6{
+    background-color: violet;
+}
+#div--btn-7{
+    background-color: rgb(175, 162, 248);
+}
+#div--btn-8{
+    background-color: rgb(128, 68, 0);
+}
+#div--btn-9{
+    background-color: rgb(1, 255, 234);
+}
+#div--btn-10{
+    background-color: rgb(153, 1, 255);
+}
+#div--btn-11{
+    background-color: grey;
+}
+#div--btn-12{
+    background-color: #cc00ff;
+}
+#div--btn-13{
+    background-color: #d0f81c;
+}
+#div--btn-14{
+    background-color: #ff006a;
+}
+#div--btn-15{
+    background-color: #0ef36e;
+}
+
+
+
+.btn--style{
+    background-color: white;
+    height: 80px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+#cantidad{
+   display: none;
+}
+
+
+.newDiv{
+    height: 150px;
+    width: 150px;
+    background-color: crimson;
+    border-radius: 20px;
+    box-shadow: 5px 3px 8px white;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.newDiv:hover{
+    background-color: black;
+}
+
+#arcoiris{
+    opacity: 100%;
+    transition: 10s;
+}
+
+.fondoNegro{
+    background-color: black !important;
+    transition: .5s;
+    z-index: 10;
+}
+
+.fondoNegro::before{
+    display: inline-block;
+    text-align: center;
+    padding: 40px;
+    font-weight: 900;
+    color: white;
+    content: "Retira el mouse y ve que pasa";
+    transition: 2s;
+}
+
+#imgMagic{
+    padding: 10px;
+    height: 90px;
+    width: 140px;
+}

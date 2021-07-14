@@ -1,0 +1,111 @@
+[
+    {
+      "accesorios": "parabrisa, parrilla, alarma",
+      "cTanque": 13,
+      "cilindrada": 150,
+      "frenos": "disco ABS/ tambor",
+      "marca": "zanella",
+      "modelo": "Patagonian Eagle",
+      "motor": "monocilindrico",
+      "peso": 150,
+      "ruedas": "90/100",
+      "vMax": 100
+    },
+    {
+      "accesorios": "USB/alarma",
+      "cTanque": 12.5,
+      "cilindrada": 149,
+      "frenos": "disco/tambor",
+      "marca": "zanella",
+      "modelo": "Cecatto",
+      "motor": "monocilindrico",
+      "peso": 108,
+      "ruedas": "90/110",
+      "vMax": 130
+    },
+    {
+      "accesorios": "USB/alarma",
+      "cTanque": 8.4,
+      "cilindrada": 150,
+      "frenos": "Disco/tambor",
+      "marca": "zanella",
+      "modelo": "Zapucai",
+      "motor": "monocilindrico",
+      "peso": 107,
+      "ruedas": "80/90",
+      "vMax": 110
+    },
+    {
+      "accesorios": "-",
+      "cTanque": 10.1,
+      "cilindrada": 124.8,
+      "frenos": "disco/tambor",
+      "marca": "honda",
+      "modelo": "CB 125 F Twister",
+      "motor": "monocilindrico",
+      "peso": 117,
+      "ruedas": "80/90",
+      "vMax": 100
+    },
+    {
+      "accesorios": "alarma",
+      "cTanque": 3.7,
+      "cilindrada": 109.1,
+      "frenos": "a tambor",
+      "marca": "honda",
+      "modelo": "Wave",
+      "motor": "monocilindrico",
+      "peso": 101,
+      "ruedas": "D-70¨ T-80¨",
+      "vMax": 85
+    },
+    {
+      "accesorios": "alarma",
+      "cTanque": 13,
+      "cilindrada": 286,
+      "frenos": "disco ABS/ disco ABS",
+      "marca": "honda",
+      "modelo": "CBR 300 R",
+      "motor": "monocilindrico",
+      "peso": 164,
+      "ruedas": "110/140",
+      "vMax": 180
+    },
+    {
+      "accesorios": "alarma",
+      "cTanque": 17,
+      "cilindrada": 249.2,
+      "frenos": "disco/disco",
+      "marca": "benelli",
+      "modelo": "TNT 250",
+      "motor": "monocilin/drico",
+      "peso": 143,
+      "ruedas": "110¨/140¨",
+      "vMax": 150
+    },
+    {
+      "accesorios": "alarma",
+      "cTanque": 13.5,
+      "cilindrada": 499.6,
+      "frenos": "doble disco ABS/ disco ABS",
+      "marca": "benelli",
+      "modelo": "Leoncino",
+      "motor": "bicilindrico",
+      "peso": 186,
+      "ruedas": "120/160",
+      "vMax": 170
+    },
+    {
+      "accesorios": "-",
+      "cTanque": 20,
+      "cilindrada": 499.6,
+      "frenos": "doble disco ABS/ disco ABS",
+      "marca": "benelli",
+      "modelo": "TRK 502 ABS",
+      "motor": "bicilindrico",
+      "peso": 213,
+      "ruedas": "120/160",
+      "vMax": 180
+    }
+  ]
+
